@@ -1,4 +1,4 @@
-## Progetti di R & D del gruppo Ict-Group 👋
+## Ict-Group - Progetti di R & D 👋
 
 
 **Regole per la raccolta documentale:**
